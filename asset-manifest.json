@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React_Carousel_App/static/css/main.3426e73e.chunk.css",
+    "main.js": "/React_Carousel_App/static/js/main.d183942f.chunk.js",
+    "main.js.map": "/React_Carousel_App/static/js/main.d183942f.chunk.js.map",
+    "runtime-main.js": "/React_Carousel_App/static/js/runtime-main.e807bd22.js",
+    "runtime-main.js.map": "/React_Carousel_App/static/js/runtime-main.e807bd22.js.map",
+    "static/css/2.fb346933.chunk.css": "/React_Carousel_App/static/css/2.fb346933.chunk.css",
+    "static/js/2.3b86999c.chunk.js": "/React_Carousel_App/static/js/2.3b86999c.chunk.js",
+    "static/js/2.3b86999c.chunk.js.map": "/React_Carousel_App/static/js/2.3b86999c.chunk.js.map",
+    "index.html": "/React_Carousel_App/index.html",
+    "precache-manifest.09dad77745e3fb7299738eb18c920a22.js": "/React_Carousel_App/precache-manifest.09dad77745e3fb7299738eb18c920a22.js",
+    "service-worker.js": "/React_Carousel_App/service-worker.js",
+    "static/css/2.fb346933.chunk.css.map": "/React_Carousel_App/static/css/2.fb346933.chunk.css.map",
+    "static/css/main.3426e73e.chunk.css.map": "/React_Carousel_App/static/css/main.3426e73e.chunk.css.map",
+    "static/js/2.3b86999c.chunk.js.LICENSE.txt": "/React_Carousel_App/static/js/2.3b86999c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e807bd22.js",
+    "static/css/2.fb346933.chunk.css",
+    "static/js/2.3b86999c.chunk.js",
+    "static/css/main.3426e73e.chunk.css",
+    "static/js/main.d183942f.chunk.js"
+  ]
+}
